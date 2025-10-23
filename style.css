@@ -1,9 +1,16 @@
-
 :root {
   --brand-beige: #FBEAD6;
 }
 
 body {
  background-color: var(--brand-beige);
- font-family: "Roboto Condensed", sans-serif;
+font-family: "Roboto Condensed";
+}
+.center{
+  text-align: center;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+.text{
+  margin-top: 50px;
 }
